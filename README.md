@@ -1,1 +1,1 @@
-# Sistema-especialista-de-residuos-domesticos
+# Sistema-especialista-de-residuos-domesticos.
